@@ -1,0 +1,30 @@
+Riviera-PRO 2023.04.112.8911(Linux64) 2024-10-14 07:48:21
+
+Elaboration top modules:
+Verilog Module                tbALU
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+tbALU                   | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+ALU                     | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+mux2                    | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+fulladder_32bit         | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+andgate                 | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+orgate                  | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+mux4                    | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+fulladder               | work    |      | 2023.04.112 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition

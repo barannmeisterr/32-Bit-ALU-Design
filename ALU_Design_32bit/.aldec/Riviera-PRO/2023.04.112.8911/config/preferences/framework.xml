@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<framework values_path="." destination="application/framework">
+	<customize>
+		<large-icon-mode value="false"/>
+		<enable-animations value="true"/>
+		<enable-icons value="true"/>
+		<standalone-tool-widgets value="false"/>
+		<enable-tooltips value="true"/>
+		<sort-method value="0"/>
+	</customize>
+	<recent>
+		<files value=""/>
+		<directories value="/home/runner;"/>
+		<workspaces value=""/>
+		<visited-path value=""/>
+	</recent>
+	<extensions>
+		<text value="txt;log"/>
+		<vhdl value="vhd;vhdl;vhq;tvhd;vho;vhm;vhi;vhn;vhs;vhdp"/>
+		<verilog value="v;vei;veo;vo;vm;vmd;vlb;vlg;vqm;vq;vl;vt;vp"/>
+		<systemverilog value="sv;svp"/>
+		<systemverilogheader value="svh;vh"/>
+		<perl value="pl;pm"/>
+		<edif value="edn;edf;edo"/>
+		<sdf value="sdf;sdo"/>
+		<macro value="do;tcl"/>
+		<psl value="psl"/>
+		<cpp value="cpp;cc"/>
+		<hpp value="hpp;hh"/>
+		<c value="c"/>
+		<h value="h"/>
+		<awc value="awc"/>
+		<design value="rdsn"/>
+		<workspace value="rwsp"/>
+		<dataset value="hdb;asdb"/>
+		<coverage_database value="acdb"/>
+		<library value="lib"/>
+		<html value="html;htm"/>
+		<picture value="jpg;jpeg;png;gif;bmp;svg;webp"/>
+		<memory value="hex;mif;mem"/>
+		<dataflow value="adc"/>
+		<plot value="plot"/>
+		<histogram value="hist"/>
+		<image value="image"/>
+		<fsm value="fsm"/>
+		<asdbc value="asdbc"/>
+		<profiler_database value="tbp"/>
+		<testplan value="tpe"/>
+	</extensions>
+	<documentation>
+		<use-builtin value="true"/>
+		<reuse-window value="true"/>
+	</documentation>
+	<notifications>
+		<enable value="true"/>
+		<enable-window value="true"/>
+		<window-visibility-time value="3"/>
+		<number-of-recent value="25"/>
+		<enable-console value="false"/>
+	</notifications>
+</framework>

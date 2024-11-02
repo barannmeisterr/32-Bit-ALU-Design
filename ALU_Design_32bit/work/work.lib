@@ -1,0 +1,85 @@
+timestamp=1728906501034
+
+[~A]
+LastVerilogToplevel=tbALU
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*2112*4031
+
+[~MFT]
+0=11|0work.mgf|4031|0
+1=9|1work.mgf|10879|0
+3=18|3work.mgf|8875|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c9216db24a97cd745da579a5f3e5e00e44911
+
+[ALU]
+A/ALU=22|../design.sv|58|1*8043
+BinL64/ALU=3*4770
+R=../design.sv|58
+SLP=3*5803
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|b3eb40c25b2a3c0379c7730185183eec4951a93f44d9768a198b65c70947d381
+
+[andgate]
+A/andgate=22|../design.sv|46|1*5965
+BinL64/andgate=3*3497
+R=../design.sv|46
+SLP=3*3938
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|79ddce9604d0928deb8481e0dd77394426527262ddaa47cb266f3a3c4d9b973a6c1e22894dffac4aa39c13656bdc4b57
+
+[fulladder]
+A/fulladder=22|../design.sv|1|1*374
+BinL64/fulladder=3*174
+R=../design.sv|1
+SLP=3*669
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c12a13e6fa1dde32095fc858f2c5d0a25fe0f6cc11f37d48b53e35433dff82a0f41ffe0b835ed5a1b4eb2735cc954575
+
+[fulladder_32bit]
+A/fulladder_32bit=22|../design.sv|8|1*1397
+BinL64/fulladder_32bit=3*888
+R=../design.sv|8
+SLP=3*1484
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|dc630cff5f411c2d74f8d4ca8370d6eee1322253b1a46550f923f4965ea151a30d7513799fd3da52cca80280a9bf3230
+
+[mux2]
+A/mux2=22|../design.sv|30|1*3526
+BinL64/mux2=3*1904
+R=../design.sv|30
+SLP=3*2363
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|f9ee56a8e70b6379e416e505b7720bdcdc5779d1b660843fa878e3367bdcf910
+
+[mux4]
+A/mux4=22|../design.sv|38|1*4626
+BinL64/mux4=3*2543
+R=../design.sv|38
+SLP=3*3245
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c014f795e05fa981f85b0c998c39b16fdc5779d1b660843fa878e3367bdcf910
+
+[orgate]
+A/orgate=22|../design.sv|52|1*7006
+BinL64/orgate=3*4131
+R=../design.sv|52
+SLP=3*4579
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|70402b5cded1364f5a8882c6f4c8c8a7a6eb14cf5fe0bc4332f7dca384f40db4
+
+[tbALU]
+A/tbALU=22|../testbench.sv|1|1*10879
+BinL64/tbALU=3*6257
+R=../testbench.sv|1
+SLP=3*8875
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|9c791bdbc41dbcf5742992510a4c5cdad7ef818334d20af3ae220e1fc765ee5d
+
+[~U]
+$root=12|0*0|
+ALU=12|0*1519|
+andgate=12|0*1115|
+fulladder=12|0*214|
+fulladder_32bit=12|0*436|
+mux2=12|0*689|
+mux4=12|0*896|
+orgate=12|0*1318|
+tbALU=12|0*1795||0x10
